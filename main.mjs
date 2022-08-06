@@ -1,4 +1,4 @@
-import { mostraIdade, mostraCidade, mostraHobby } from './funcoes.mjs';
+import { mostraIdade, mostraCidade, mostraHobby } from "./funcoes.mjs";
 
 console.log(mostraIdade('Marina', 20));
 
